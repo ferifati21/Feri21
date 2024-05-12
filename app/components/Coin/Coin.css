@@ -1,0 +1,40 @@
+.Coin {
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.Name {
+  display: flex;
+  align-items: center;
+}
+
+.Image {
+  margin-right: 0.5em;
+  height: 20px;
+  width: 20px;
+  display: block;
+}
+
+.Total {
+  text-align: right;
+}
+
+.Percentage {
+  text-align: right;
+}
+
+.Price {
+  text-align: right;
+}
+
+.Growth {
+  text-align: right;
+  font-weight: bold;
+}
+
+.positive {
+  color: #20af0e;
+}
+
+.negative {
+  color: red;
+}
